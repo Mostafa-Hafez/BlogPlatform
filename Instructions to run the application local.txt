@@ -1,0 +1,11 @@
+----------------Instructions to run the application local-------------
+
+1 - open microsoft management studio in your device
+2 - run the backup file which in reosatory
+3 - open soluation file of th app by visual studio 2022
+3 - open appsetting.js 
+5 - modify the connectionstring 
+6 - run the app 
+7 - create a new account and , add posts , follow others , see their posts and 
+     leave comments
+
