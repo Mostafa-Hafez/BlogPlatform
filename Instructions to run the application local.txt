@@ -6,6 +6,8 @@
 3 - open appsetting.js 
 5 - modify the connectionstring 
 6 - run the app 
-7 - create a new account and , add posts , follow others , see their posts and 
+7 - create a new account and recieve token that you can use it for 
+testing 
+8- you feel free to add posts , follow others , see their posts and 
      leave comments
 
